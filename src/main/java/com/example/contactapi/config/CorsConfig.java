@@ -24,14 +24,6 @@ import static org.springframework.http.HttpMethod.PATCH;
 import static org.springframework.http.HttpMethod.POST;
 import static org.springframework.http.HttpMethod.PUT;
 
-/**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (<a href="https://www.getarrays.io">Get Arrays, LLC</a>)
- * @email getarrayz@gmail.com
- * @since 11/23/2023
- */
-
 @Configuration
 public class CorsConfig {
 
